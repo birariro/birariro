@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hello&fontAlign=70&fontAlignY=40&color=gradient&rotate=10)
 
+<h3 align="left">💡 activity</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/OpenSecureLab-2018-blue"/>
+  <img src="https://img.shields.io/badge/SUA-2018-blue"/>
+  <img src="https://img.shields.io/badge/Tips-2019-brightgreen"/>
+  <img src="https://img.shields.io/badge/K--Shield%20Jr-3rd-blue"/>
+  <img src="https://img.shields.io/badge/Hanium-2020-brightgreen"/>
+</p>
+</br>
 
 <h3 align="left">🚀 Platform & Languages</h3>
 <p align="left"> 

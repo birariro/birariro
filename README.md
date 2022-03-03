@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hello&fontAlign=70&fontAlignY=40&color=gradient&rotate=10)
 
-<h3 align="left">💡 activity</h3>
+<h3 align="left">💡 Activity</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/OpenSecureLab-2018-blue"/>
   <img src="https://img.shields.io/badge/SUA-2018-blue"/>

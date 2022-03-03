@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World&fontAlign=70&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hello&fontAlign=70&fontAlignY=40&color=gradient&rotate=10)
 
 
-<h3 align="left">Platform & Languages</h3>
+<h3 align="left">🚀 Platform & Languages</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">⚒️ Tools</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -27,6 +27,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=k4keye&hide=stars&show_icons=true&theme=Showingicons"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4keye&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4keye&layout=compact"/>
 </p>

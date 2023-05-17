@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hello&fontAlign=70&fontAlignY=40&color=gradient&rotate=10)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hello&fontAlign=70&fontAlignY=40&color=gradient&rotate=10)
 
 <h3 align="left">Activity</h3>
 <p align="left"> 
@@ -23,3 +23,4 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=k4keye&hide=stars&show_icons=true&theme=Showingicons"/>
 </p>
+ -->

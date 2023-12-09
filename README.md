@@ -1,36 +1,24 @@
 
-<h2 align="left">활동</h2>
-<h3 align="left">스터디</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Hanium-2020-brightgreen"/>
-  <img src="https://img.shields.io/badge/K--Shield%20Jr(정보보호 관리 파트)-2019-blue"/>
-  <img src="https://img.shields.io/badge/Tips-2019-red"/>
-  <img src="https://img.shields.io/badge/OpenSecureLab(악성코드 연구회)-2018-purple"/>
-  <img src="https://img.shields.io/badge/SUA(리버싱)-2018-brightgreen"/>
-  
-</p>
+스터디
+- 2020 한이음 이상 탐지 프로젝트 참여,
+- 2019 K-Shield jr  정보보안 컨설팅 프로젝트 PM 및 모의해킹
+- 2019 TIPS  C, C++ 지식 나눔 참여
+- 2019 정보보호 올림피아드 렌섬웨어 문제출제 
+- 2018 오픈 시큐어 연구회 랜섬웨어 복구 스터디
+- 2018 대학연합 보안 커뮤니티 리버스엔지니어링 스터디
 
-<h3 align="left">밋업 & 컨퍼런스 & ETC</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/AWSKRUG-brightgreen"/>
-  <img src="https://img.shields.io/badge/NHN Forward-blue"/>
-  <img src="https://img.shields.io/badge/정보보호 올림피아드 문제출제-2019-red"/>
-</p>
-<h3 align="left">자격증 & 수상</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/정보 처리 기사-2022-brightgreen"/>
-  <img src="https://img.shields.io/badge/한국인터넷진흥원 인증서-2019-blue"/>
-  <img src="https://img.shields.io/badge/네트워크 관리사 2급-2019-red"/>
-  <img src="https://img.shields.io/badge/서울 호서 전문학교 해킹대회 대상 수상-2018-purple"/>
-</p>
+컨퍼런스
+- AWSKRUG
+- NHN Forward
+- Microsoft Best of Build
+- 시큐업 세미나
 
-<h2 align="left">도구</h2>
-
-[![icon](https://skillicons.dev/icons?i=java,py,cs,js,spring,kotlin,swift,vue)](https://skillicons.dev)</br>
-[![Tools](https://skillicons.dev/icons?i=git,docker,aws,githubactions,mysql,prometheus,redis,grafana)](https://skillicons.dev)
+자격
+- 정보 처리 기사
+- 네트워크 관리사 2급
+- 한국인터넷진흥원 인증서
+- 서울 호서 전문학교 해킹대회 대상 
 
 
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=birariro&hide=stars&show_icons=true&theme=transparent"/>
-</p> -->
+
 
